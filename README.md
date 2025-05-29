@@ -2,7 +2,7 @@
 
 A stylish graphical interface for creating and managing Cloudflare tunnels using `cloudflared`.
 
-![Screenshot](screenshot.jpg) *(Add screenshot after testing)*
+![Screenshot](screenshot.jpg)
 
 ## Features
 
