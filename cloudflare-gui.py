@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# https://github.com/Keyaru-code/Cloudflare-GUI.git
+# Version - 1.0
 
 import os
 import subprocess
