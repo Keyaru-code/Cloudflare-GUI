@@ -64,6 +64,6 @@ MIT License
 
 ## Credits
 
-Made with ❤️by :- 
-keyaru-code
-Alienkrishn 
+Made with ❤️ by :- <br>
+* keyaru-code <br>
+* Alienkrishn 
